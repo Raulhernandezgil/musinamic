@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Musinamic"
+    }
+  },
+  "defaultProject": "Musinamic",
+  "cli": {
+    "analytics": false
+  }
 }
